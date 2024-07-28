@@ -13,7 +13,7 @@
  
  🌱 My major is **Computer Science**
 
-💬 Ask me about anything [here](https://github.com/PhamQuocNam)**
+💬 Ask me about anything [**here**](https://github.com/PhamQuocNam)
 
 ⚡ I like hiking and learning language
 
