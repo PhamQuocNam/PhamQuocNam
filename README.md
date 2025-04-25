@@ -1,70 +1,48 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pikker+Pham!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=5D3FD3&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋;I'm+Pikker+Pham;AI+Enthusiast+%26+Developer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate Aspiration to Excel as an AI Engineer</h3>
+<h3 align="center">Turning Coffee into Code | Building Intelligent Systems | Lifelong Learner</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Machine+Learning+Explorer;Open-Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently a sophomore in University of Information Technology in Vietnam
- 
- 🌱 My major is **Computer Science**
-
-💬 Ask me about anything [**here**](https://github.com/PhamQuocNam)
-
-⚡ I like hiking and learning language
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pikkerpham168@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pikker-pham-68a208193" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/PhamQuocNam" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=PhamQuocNam&label=Profile+Views&color=5D3FD3&style=flat" alt="profile views" /> 
+  <img src="https://img.shields.io/github/followers/PhamQuocNam?label=Followers&style=social" alt="followers" />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,sklearn,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,latex,express,firebase,c,java,mysql" /><br>
-</div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhamQuocNam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamQuocNam&layout=compact&langs_count=8&theme=dracula&border_radius=10"/> </div><div align="center"> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PhamQuocNam&theme=dracula&border_radius=10"/> </div>
 
-<br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/PhamQuocNam/PhamQuocNam/blob/main/github-user-contribution.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=PhamQuocNam&theme=tokyonight&hide_border=true" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=PhamQuocNam&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+### 🚀 About Me
+
+```python
+class PikkerPham:
+    def __init__(self):
+        self.name = "Pikker Pham"
+        self.role = "AI Aspirant"
+        self.education = "Computer Science @ University of Information Technology, Vietnam"
+        self.interests = [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Science"
+        ]
+        self.hobbies = ["Hiking", "Language Learning", "Open Source"]
     
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PhamQuocNam&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+    def say_hi(self):
+        print("Thanks for dropping by!")
 
-<br/><br/>
+me = PikkerPham()
+me.say_hi()
 
-<hr/>
 
-<br/>
