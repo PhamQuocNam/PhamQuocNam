@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently a **Computer Science sophomore** at the **University of Information Technology**, Vietnam.
+- 🎓 I'm a **Computer Science sophomore** at the **University of Information Technology**, Vietnam.
 - 🤖 I'm working hard to become an **AI Engineer**, contributing to **robotics and smart systems**.
 - 📈 I love playing with data: **EDA**, **machine learning**, and **visual storytelling** are my jam.
 - 🌄 Outside of code, you’ll find me **hiking** or learning **new languages** 🌍
@@ -40,9 +40,9 @@
 ### 🧰 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,matplotlib,seaborn,c,java,latex,express,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,matplotlib,seaborn,c,java,latex,express,firebase,mysql,pytorch,tensorflow" />
   <br />
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,nodejs,git,github,vscode,r" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,nodejs,git,github,vscode,langchain,huggingface,opencv" />
 </div>
 
 ---
