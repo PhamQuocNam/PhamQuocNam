@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/💡 Passion-AI%20%26%20Robotics-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧠 Focus-ML%2C%20EDA%2C%20Data%20Visualization-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/🛠 Tools-Matplotlib%2C%20Seaborn%2C%20Sklearn-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠 Focus-ML%2C%20NLP%2C%20CV%20Data-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/🛠 Tools-Pytorch%2C%20OpenCV%2C%20Sklearn%20HuggingFace%20Langchain-yellow?style=flat-square" />
 </p>
 
 ---
