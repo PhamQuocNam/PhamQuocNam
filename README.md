@@ -47,14 +47,6 @@
 
 ---
 
-### 🐍 GitHub Contributions
-
-<div align="center">
-  <img src="https://github.com/PhamQuocNam/PhamQuocNam/blob/main/github-user-contribution.svg" alt="snake animation" />
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
