@@ -40,7 +40,7 @@
 ### 🧰 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,matplotlib,seaborn,c,java,latex,express,firebase,mysql,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,c,java,latex,express,firebase,mysql,pytorch,tensorflow" />
   <br />
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,figma,nodejs,git,github,vscode,langchain,huggingface,opencv" />
 </div>
