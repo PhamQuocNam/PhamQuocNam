@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=PhamQuocNam&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=PhamQuocNam&theme=tokyonight&hide_border=true" alt="readme stats" />
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=PhamQuocNam&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     
   <br/>
